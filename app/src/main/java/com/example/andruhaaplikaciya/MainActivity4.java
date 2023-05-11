@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-public class MainActivity4 extends AppCompatActivity
+public class MainActivity4 extends AppCompatActivity{
     private TextView skip2;
 
     @Override
